@@ -1,10 +1,16 @@
 _repo: Man-and-the-Glacial-Period_50957
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 50957-h/images/epub_cover.jpg
 creator:
   author:
     agent_name: Wright, G. Frederick
     gutenberg_agent_id: '46164'
     url: http://www.gutenberg.org/2009/agents/46164
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/50957#Man-and-the-Glacial-Period
 gutenberg_issued: '2016-01-18'
 gutenberg_type: Text
 identifiers:
